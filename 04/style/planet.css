@@ -1,0 +1,19 @@
+
+.text-box.center{
+    text-align: center;
+}
+
+
+.text-box.right{
+    text-align: right;
+}
+.img-box.center{
+    text-align: center;
+}
+.img-box.right{
+    text-align: right;
+}
+.img-box.left{
+    text-align: left
+    ;
+}
