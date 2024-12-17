@@ -1,0 +1,98 @@
+border.helx{
+
+    color: red;
+    font-size: 35px;
+}
+border{
+    color: rgb(242, 242, 242);
+    padding: left 4px;
+}
+.i{
+position: relative;
+color: rgb(255, 255, 255);
+}
+.star{
+    color: yellow;
+}
+body{
+    background-image:url(img/Rectangle\ 1.png);
+    min-height: 100vh;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+h3{
+    font-size: 64px;
+}
+header{
+    padding: 20px;
+    position:sticky;
+    z-index: auto;
+    
+}
+h4{
+    font-size: 25px;
+    
+}
+p{
+    font-size: 24px;
+    width: 856px;
+    color: white;
+    
+}
+.fa-thin.fa-star{
+ color: white;
+}
+.fa-buffer{
+    color: white;
+}
+.btn{
+    background-color:red ;
+    color: white;
+    padding: 12px 32px;
+    font-size: 14px;
+    border: none;
+    letter-spacing: 1px;
+    border-radius: 5px;
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    
+}
+
+.bthn{  
+font-size 14px; 
+text-decoration: none;
+font-family: "Inter", sans-serif;
+text-transform: uppercase;
+text-align: center;
+line-height: 15px;
+background-color:rgba(255, 255, 255, 0.095) ;
+color: white;
+padding: 12px 32px;
+border-radius: 5px;
+font-weight: 300;
+display: inline-block;
+border-color: white;
+margin: 25px;
+
+
+}
+body{
+    margin-left: 35px;
+}
+img{
+    margin: 10px;
+}
+.fa-solid.fa-magnifying-glass{
+    margin-right: 35px;
+    color: white;
+    font-size: 25px;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    
+}
+.img-box{
+    background-position: top left;
+    background-size: 10spx;
+    padding-bottom: 11px;
+}
